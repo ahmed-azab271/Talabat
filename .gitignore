@@ -1,0 +1,22 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+## Visual Studio Code
+.vs/
+
+## ASP.NET Core secrets
+secrets.json
+
+
+
+
+
+
+
+
+
+
